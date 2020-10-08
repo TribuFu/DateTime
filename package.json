@@ -1,6 +1,6 @@
 {
     "name": "@tribufu/datetime",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Custom datetime wrapper",
     "repository": "https://github.com/TribuFu/DateTime",
     "author": "TribuFu <contact@tribufu.com>",
